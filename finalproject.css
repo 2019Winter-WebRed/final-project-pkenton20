@@ -1,0 +1,64 @@
+/*
+* Paige Kenton
+* 5/30/19
+* Final project
+*/
+
+/* The universal selector */
+* {margin: 0; padding: 0;}
+
+
+
+body {width: 100%; background-color: white;
+    margin: 15px auto; border: 1px solid black; background-color: aliceblue;} /* body attributes here */
+
+
+h1 {padding: 10px;} /* header attributes here */
+
+
+header {border: 2px solid navy; text-align: center; background-color: cornflowerblue} /* header attributes here */
+
+
+#sidebarA {width: 24%; height: 600px;
+    float: left; border-right: 2px solid navy; text-align: center; color: cornflowerblue;} /* sidebar A attributes here */
+
+
+#MRaskova {width: 150px; height: 200px; margin-top: 15px; border: 2px dashed black;} /* imahe with id MRaskova attributes here */
+
+
+h3 {padding: 10px;} /* smaller heading attributes here */
+
+
+#BioParagraph1 {padding: 10px;} /* bio paragraph 1 attributes here */
+
+
+#BioParagraph2 {padding: 10px;} /* bio paragraph 2 attributes here */
+
+
+#BioParagraph3 {padding: 10px;} /* bio paragraph 3 attributes here */
+
+
+#LPar1 {padding: 5px;} /* legacy paragraph 1 attributes here */
+
+
+#LPar2 {padding: 5px;} /* legacy paragraph 2 attributes here */
+
+
+main {width: 48%; height: 600px; /* main attributes here */
+    float: left;}
+
+#BioPic1 {float: right; border: 3px solid cornflowerblue; height: 125px; width: 175px; margin: 10px; margin-left: 25px; margin-top:15px;} /* bio picture 1 attributes here */
+
+#sidebarB {width:24%; height: 600px;
+    float: right; border-left: 2px solid navy; color: cornflowerblue;} /* sidebar B attributes here */
+
+#ashescaption {font-size: 10pt; color: black; text-align: center; margin: 10px;} /* figure caption with id ashescaption attributes here */
+
+
+#ashes {height: 100px; width: 150px; margin-top: 10px; margin-left: 45px; border: 2px dashed black;} /* figure image with id ashes attributes here */
+
+
+footer {clear: both; border-top: 2px solid navy; background-color: lightskyblue;} /* footer attributes here */
+
+
+#Disclaimer {float: right;} /* paragraph with id disclaimer attributes here */
